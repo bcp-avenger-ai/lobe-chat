@@ -19,7 +19,7 @@ permissions:
 
 jobs:
 
-  linter:
+  codeql_scal:
     runs-on: ubuntu-latest
 
     steps:
